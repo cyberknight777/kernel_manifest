@@ -21,6 +21,4 @@
     <linkfile dest="build.config" src="build.config.cancunf" />
   </project>
 
-  <project path="vendor" name="sarthakroy2002/kernel_motorola_cancunf-modules" remote="github" revision="android-14" clone-depth="1" />
-
 </manifest>
